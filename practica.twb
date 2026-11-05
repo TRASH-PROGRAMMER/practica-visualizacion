@@ -1030,6 +1030,16 @@
           </strip>
         </edge>
       </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.07u5kod0ua83kr176jcin1bld2u2].[none:Calculation_1263677273886721:qk]</field>
+            <field>[federated.07u5kod0ua83kr176jcin1bld2u2].[none:Calculation_1263677274038274:qk]</field>
+            <field>[federated.07u5kod0ua83kr176jcin1bld2u2].[none:Calculation_1263677274116099:qk]</field>
+            <field>[federated.07u5kod0ua83kr176jcin1bld2u2].[none:Calculation_1263677274820612:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
       <simple-id uuid='{A378B5A7-8D65-4DDD-9E3C-86CE6C9A989D}' />
     </window>
   </windows>
